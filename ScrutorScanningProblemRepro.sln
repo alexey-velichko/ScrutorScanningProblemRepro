@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrutorScanningProblemRepro", "ScrutorScanningProblemRepro\ScrutorScanningProblemRepro.csproj", "{9ACAE1C2-8EBA-4B2E-9B2A-DBF3183EEFF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ACAE1C2-8EBA-4B2E-9B2A-DBF3183EEFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACAE1C2-8EBA-4B2E-9B2A-DBF3183EEFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACAE1C2-8EBA-4B2E-9B2A-DBF3183EEFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACAE1C2-8EBA-4B2E-9B2A-DBF3183EEFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {363006FC-B7DE-4AE7-BE93-41DFD4FF43E9}
+	EndGlobalSection
+EndGlobal
